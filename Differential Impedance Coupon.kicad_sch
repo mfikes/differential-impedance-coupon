@@ -227,7 +227,7 @@
     (property "Value" "120" (at 171.45 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 169.926 94.234 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 169.926 94.234 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 168.91 93.98 0)
